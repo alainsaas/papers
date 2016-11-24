@@ -6,4 +6,4 @@ IEEE/ACM DSAA 2016
 
 [Discovering Playing Patterns: Time Series Clustering of Free-To-Play Game Data](https://github.com/alainsaas/papers/blob/master/Clustering%20of%20Time%20Series%20from%20Free-To-Play%20Games.pdf)  
 Alain Saas, Anna Guitart and Africa Perianez  
-IEEE GIG 2016
+IEEE CIG 2016
