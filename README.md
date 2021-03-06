@@ -1,3 +1,11 @@
+## On Data Science Product Management
+
+[The MVP Approach to Building a Data-Science Product]
+(https://github.com/alainsaas/papers/raw/master/The%20MVP%20Approach%20to%20Building%20a%20Data-Science%20Product%20-%20Alain%20Saas.pdf)
+Alain Saas 2021
+[[PDF]](https://github.com/alainsaas/papers/raw/master/The%20MVP%20Approach%20to%20Building%20a%20Data-Science%20Product%20-%20Alain%20Saas.pdf)
+
+
 ## Papers on Game Data Science
 
 [Churn Prediction in Mobile Social Games: Towards a Complete Assessment Using Survival Ensembles](https://github.com/alainsaas/papers/raw/master/Churn%20Prediction%20in%20Mobile%20Games%20Using%20Survival%20Ensembles.pdf)  
