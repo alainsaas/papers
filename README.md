@@ -16,3 +16,10 @@ IEEE/ACM DSAA 2016
 Alain Saas, Anna Guitart and Africa Perianez  
 IEEE CIG 2016  
 [[Paper]](https://github.com/alainsaas/papers/raw/master/Clustering%20of%20Time%20Series%20from%20Free-To-Play%20Games.pdf) [[Slides]](http://www.slideshare.net/alainsaas/discovering-playing-patterns-time-series-clustering-of-freetoplay-game-data)
+
+
+## Wenyan-lang programming
+
+[Wenyan-lang beginner cheatsheet](https://github.com/alainsaas/wenyan/raw/master/wenyan-lang%20beginner%20cheatsheet.pdf)  
+Alain Saas, 2020  
+[[PDF]](https://github.com/alainsaas/wenyan/raw/master/wenyan-lang%20beginner%20cheatsheet.pdf)
